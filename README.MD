@@ -14,6 +14,10 @@ Este projeto integra conceitos de **Sistemas Operacionais** com tecnologias como
 
 ---
 
+## Video demonstrativo
+```bash
+https://www.youtube.com/watch?v=mXcvoU04jbM
+```
 ## Objetivos do Projeto
 
 - Configurar um ambiente Docker com servidor NGINX e aplicação Node.js
