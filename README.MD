@@ -1,4 +1,4 @@
-# Projeto Operating Systems: API, Logs e Anonimização
+# SPRINT 4 - Operating Systems
 
 # Integrantes
 
